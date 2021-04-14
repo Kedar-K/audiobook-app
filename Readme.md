@@ -39,7 +39,7 @@ http://localhost:8000/
 
 ### Usability
 
-\_To see currecnly added elements/ add new element (you will get form on UI to do these operations)
+_To see currecnly added elements/ add new element (you will get form on UI to do these operations)_
 
 "songs": "http://127.0.0.1:8000/songs/",
 
