@@ -1,7 +1,6 @@
 from django.db import models
 
-#TODO: we need to change this limit to 10 currently it is at 4 for testing purpose.
-MAX_PODCAST_USER_ALLOWED = 4
+MAX_PODCAST_USER_ALLOWED = 10
 
 class Song(models.Model):
     song_name = models.CharField(max_length=100)
